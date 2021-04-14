@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1qT4f62hc8v+aigy2SdkWfvQYcVB1q/7YGQwVX0kVkIpuq6AL5p3RW8EjMtMjUlCaKHdrZBW/R+jC7/0otrpiQ==",
+  "success": true,
+  "projectFilePath": "/Users/austenmack/MCS Projects/539 Crypto/P3/P3.csproj",
+  "expectedPackageFiles": [
+    "/Users/austenmack/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/austenmack/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
